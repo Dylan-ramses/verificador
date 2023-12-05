@@ -1,0 +1,41 @@
+body {
+  height: 100%;
+}
+.small-top {
+  margin-top: 2%;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.card-no-border {
+  border: none;
+}
+.subtitle-fix {
+  font-size: 12px;
+}
+.img-placeholder {
+  height: 200px;
+}
+.title-placeholder {
+  height: 75px;
+}
+.custom-height {
+  height: 110%;
+}
+.flag {
+  max-width: 60%;
+  max-height: 60%;
+}
+.mini-flag {
+  max-width: 60%;
+  max-height: 60%;
+}
+.bottom-fix {
+  margin-top: -15px;
+}
+.no-margin {
+  border: none !important;
+}
+.currency-value {
+  font-size: 18px;
+}
